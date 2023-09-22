@@ -7,4 +7,6 @@ public class Player : Entity {
     healthMax = _healthMax;
     healthStatus = _healthStatus;
   }
+
+  
 }

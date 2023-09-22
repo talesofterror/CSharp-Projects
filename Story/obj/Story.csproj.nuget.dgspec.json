@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\michr\\personal-repos\\CSharp-Projects\\ConsoleApp1\\Story.csproj": {}
+    "C:\\Users\\michr\\personal-repos\\CSharp-Projects\\Story\\Story.csproj": {}
   },
   "projects": {
-    "c:\\Users\\michr\\personal-repos\\CSharp-Projects\\ConsoleApp1\\Story.csproj": {
+    "C:\\Users\\michr\\personal-repos\\CSharp-Projects\\Story\\Story.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\michr\\personal-repos\\CSharp-Projects\\ConsoleApp1\\Story.csproj",
+        "projectUniqueName": "C:\\Users\\michr\\personal-repos\\CSharp-Projects\\Story\\Story.csproj",
         "projectName": "Story",
-        "projectPath": "c:\\Users\\michr\\personal-repos\\CSharp-Projects\\ConsoleApp1\\Story.csproj",
+        "projectPath": "C:\\Users\\michr\\personal-repos\\CSharp-Projects\\Story\\Story.csproj",
         "packagesPath": "C:\\Users\\michr\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\michr\\personal-repos\\CSharp-Projects\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\michr\\personal-repos\\CSharp-Projects\\Story\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\michr\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3p3BXp5OcBXIbLEdb/IHYxBXvh4oSHylyhhs3fmYN/TPDeMYywnPZxPdTl9Syq2/RMUjQB2d5lIVaZGPZOMJoQ==",
+  "dgSpecHash": "g4qQToqthlQGNSZ8PF4HP2JpfSwc8jcH04j0LyYvFHuzghX5vDvkcgUFhwlPgcW251PcEPOWcNTr7TxrFNY2FQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\michr\\personal-repos\\CSharp-Projects\\ConsoleApp1\\Story.csproj",
+  "projectFilePath": "C:\\Users\\michr\\personal-repos\\CSharp-Projects\\Story\\Story.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
